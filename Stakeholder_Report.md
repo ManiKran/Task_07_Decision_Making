@@ -62,6 +62,3 @@ Risk Level: [Low/Medium/High]
 
 ## Appendices
 - Raw LLM outputs (`/prompts`)  
-- Annotated outputs with edits (`/prompts/annotated_llm_output.txt`)  
-- Code & random seeds (`/code/analysis.ipynb`)  
-- Data lineage (`/data/data_lineage.md`)  
