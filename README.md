@@ -18,7 +18,7 @@ Goal: transform an LLM-generated narrative on Syracuse Women’s Lacrosse into a
 ## How to Run
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/<your-username>/Task_07_Decision_Making.git
+   git clone https://github.com/ManiKran/Task_07_Decision_Making.git
    cd Task_07_Decision_Making/code
    ```
 2. Open `analysis.ipynb` in Jupyter Notebook.  
