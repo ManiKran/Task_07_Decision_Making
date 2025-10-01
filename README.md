@@ -29,5 +29,3 @@ Goal: transform an LLM-generated narrative on Syracuse Women’s Lacrosse into a
 ## Submission
 - Stakeholder report: `report/Stakeholder_Report.md`  
 - Prompts + outputs: `prompts/`  
-- Analysis code: `code/`  
-- Data lineage: `data/data_lineage.md`  
